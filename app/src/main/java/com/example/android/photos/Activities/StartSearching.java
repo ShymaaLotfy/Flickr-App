@@ -38,6 +38,7 @@ public class StartSearching extends AppCompatActivity implements SearchView.OnQu
     public  void logOut(View v){
         FacebookSdk.sdkInitialize(getApplicationContext());
         LoginManager.getInstance().logOut();
+
         Intent intent = new Intent(getApplicationContext(), MainActivity.class);
         finish();
         startActivity(intent);

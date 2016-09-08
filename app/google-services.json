@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "682693523676",
+    "project_id": "firebase-photos"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682693523676:android:4618abfc147c670b",
+        "android_client_info": {
+          "package_name": "com.example.android.photos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682693523676-a0lnq6aeaif5c9tho34rs08d6liep37o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.photos",
+            "certificate_hash": "0B7B4A9C2E8BE9A276C0037475199D525CA436CD"
+          }
+        },
+        {
+          "client_id": "682693523676-pj8lko2300kg961o7khihcvgobr4tpp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Nu_hlM338xKuhIirGBSIWJCYNXtQLA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
